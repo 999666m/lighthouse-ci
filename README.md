@@ -6,6 +6,7 @@ Lighthouse CI is a suite of tools that make continuously running, saving, retrie
 
 ### Quick Start
 
+
 To get started with GitHub actions for common project configurations, add the following file to your GitHub repository. Follow [the Getting Started guide](./docs/getting-started.md) for a more complete walkthrough and instructions on other providers and setups.
 
 **.github/workflows/ci.yml**
